@@ -1,0 +1,7 @@
+# Project exclude paths
+/acl-model/target/
+/common/target/
+/eureka-server/target/
+/gateway/target/
+/security/target/
+/test_model/target/
